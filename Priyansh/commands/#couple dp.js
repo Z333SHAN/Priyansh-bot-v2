@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "couple",
+  name: "coupledp",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "PREM BABU",
