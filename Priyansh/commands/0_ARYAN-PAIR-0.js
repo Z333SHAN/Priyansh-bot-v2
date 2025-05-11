@@ -34,12 +34,12 @@ module.exports.run = async function({ api, event, Threads, Users }) {
 
   // Array of Imgur gif links
   const imgurGifs = [
-    "https://i.imgur.com/41ogamD.gif",
-    "https://i.imgur.com/qVpA7RB.gif",
-    "https://i.imgur.com/OJ6uIXY.gif",
-    "https://i.imgur.com/3qSoi8K.gif",
-    "https://i.imgur.com/EO5EtJp.gif",
-    "https://i.imgur.com/fP5kc0h.gif"
+    "https://i.postimg.cc/VLfz1b3T/fP5kc0h.gif",
+    "https://i.postimg.cc/25vsnzsh/EO5EtJp.gif",
+    "https://i.postimg.cc/LX2bfjBF/3qSoi8K.gif",
+    "https://i.postimg.cc/m2JpjvNw/OJ6uIXY.gif",
+    "https://i.postimg.cc/0ySWBVVq/qVpA7RB.gif",
+    "https://i.postimg.cc/25wxsMvg/41ogamD.gif"
     // Add more Imgur gif links as needed
   ];
 
@@ -64,7 +64,7 @@ module.exports.run = async function({ api, event, Threads, Users }) {
   imglove.push(fs.createReadStream(__dirname + "/cache/avt2.png"));
 
   var msg = {
-    body: `🌸=== 𝐎𝐰𝐧𝐞𝐫 ➻    𝐒𝐚𝐦𝐞𝐞𝐫 𝐊𝐇𝐚𝐧\n\n<   ❤__________💋
+    body: `🌸=== 𝐎𝐰𝐧𝐞𝐫 ➻    𝐒𝐀𝐦𝐞𝐞𝐫 𝐊𝐡𝐀𝐧\n\n<   ❤__________💋
 
 🍒🐰•|____[🌺]~Kʌʌs  ɣɘʜ  Sʌpŋʌ  Bʜɩ Pʋɽʌ┣┫❍ JʌɣƏ______|•💜 |•_____🌿| 🧸❤️
 
