@@ -39,7 +39,11 @@ module.exports.run = async function({ api, event, Threads, Users }) {
     "https://i.postimg.cc/LX2bfjBF/3qSoi8K.gif",
     "https://i.postimg.cc/m2JpjvNw/OJ6uIXY.gif",
     "https://i.postimg.cc/0ySWBVVq/qVpA7RB.gif",
-    "https://i.postimg.cc/25wxsMvg/41ogamD.gif"
+    "https://i.postimg.cc/25wxsMvg/41ogamD.gif",
+    "https://i.postimg.cc/Rhx1JrJS/90c2c7a3a1396f43b4279e520be3c79d.gif",
+    "https://i.postimg.cc/8CJfDyXT/9c6d06c7bcc0b3da20bab7e660d7826c.gif",
+    "https://i.postimg.cc/P5NPz3j1/b738efcb91a80ad84a4cb60b9d9ceb6b.gif",
+    "https://i.postimg.cc/7ZpY1qXy/b6c5d4fd5a3fcb73d4419eaf1a31da22.gif"
     // Add more Imgur gif links as needed
   ];
 
